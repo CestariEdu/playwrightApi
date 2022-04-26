@@ -2,6 +2,7 @@
 // @ts-check
 /** @type {import('@playwright/test').PlaywrightTestConfig} */
 const config = {
+  testDir: './specs',
   use: {
     // All requests we send go to this API endpoint.
     baseURL: 'https://pokeapi.co/api/v2/',
