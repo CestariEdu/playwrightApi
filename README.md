@@ -1,6 +1,6 @@
 # Playwright API
 
-Exemplo da apresentação da Avenue Code do playwright para o API.
+Playwright Api tests sample.
 
 ## Instalação
 
